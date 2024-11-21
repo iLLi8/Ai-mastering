@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  header {
+    background: linear-gradient(90deg, #121212, #1a1a1a);
+    padding: 20px;
+    width: 100%;
+  }
+  
+  nav a {
+    color: #00ffcc;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  h1, h2 {
+    color: #00ffcc;
+  }
+  
+  button {
+    background-color: #00ffcc;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #00cc99;
+  }
+  
